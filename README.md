@@ -31,8 +31,8 @@ En este repositorio se encuentran los archivos necesarios para hacer un excel co
 
 ## Modo de Ejecución
 
-1- Instalar el requirements.txt
+1. Instalar el requirements.txt
 
-2- Ejecutar el archivo ganancias_año.py para obtener el csv dinero_ganado_2016.csv.
+2. Ejecutar el archivo ganancias_año.py para obtener el csv dinero_ganado_2016.csv.
 
-3- Ejecutar el archivo crear_excel.py para obetener el reporte ejecutivo en formato excel.
+3. Ejecutar el archivo crear_excel.py para obetener el reporte ejecutivo en formato excel.
